@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Polaroid",
+  "base_artist": "Jonas Blue, Liam Payne, & Lennon Stella",
+  "createdAt": "2026-02-27T12:02:21.111908Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Polaroid",
+      "artist": "CURVE",
+      "has_synced": false,
+      "path": "select/01_Polaroid_CURVE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Polaroid Baby",
+      "artist": "Bratmobile",
+      "has_synced": true,
+      "path": "select/02_Polaroid_Baby_Bratmobile.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Polaroid De Locura Ordinaria",
+      "artist": "Fito Páez",
+      "has_synced": true,
+      "path": "select/03_Polaroid_De_Locura_Ordinaria_Fito_Páez.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Polaroid Solution",
+      "artist": "Faded Paper Figures",
+      "has_synced": true,
+      "path": "select/04_Polaroid_Solution_Faded_Paper_Figures.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Polaroid",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/05_Polaroid_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Polaroid",
+      "artist": "Eros Ramazzotti",
+      "has_synced": true,
+      "path": "select/06_Polaroid_Eros_Ramazzotti.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Polaroid A Day",
+      "artist": "Ted Leo and the Pharmacists",
+      "has_synced": false,
+      "path": "select/07_One_Polaroid_A_Day_Ted_Leo_and_the_Pharmacists.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Polaroid",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/08_Polaroid_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Polaroid Love",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/09_Polaroid_Love_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Polaroid",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/10_Polaroid_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Polaroid - Acoustic",
+      "artist": "Jonas Blue feat. Liam Payne & Lennon Stella",
+      "has_synced": true,
+      "path": "select/11_Polaroid_-_Acoustic_Jonas_Blue_feat._Liam_Payne_&_Lennon_Stella.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Polaroid",
+      "artist": "Jonas Blue, Liam Payne & Lennon Stella",
+      "has_synced": true,
+      "path": "select/12_Polaroid_Jonas_Blue,_Liam_Payne_&_Lennon_Stella.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Polaroid",
+      "artist": "Jonas Blue, Liam Payne, Lennon Stella",
+      "has_synced": true,
+      "path": "select/13_Polaroid_Jonas_Blue,_Liam_Payne,_Lennon_Stella.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Polaroid",
+      "artist": "Jonas Blue",
+      "has_synced": true,
+      "path": "select/14_Polaroid_Jonas_Blue.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Polaroid",
+      "artist": "Jonas Blue Ft Liam Payne & Lennon Stella",
+      "has_synced": true,
+      "path": "select/15_Polaroid_Jonas_Blue_Ft_Liam_Payne_&_Lennon_Stella.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Polaroid",
+      "artist": "Jonas Blue, Liam Payne & Lennon Stella",
+      "has_synced": false,
+      "path": "select/pl_01_Polaroid_Jonas_Blue,_Liam_Payne_&_Lennon_Stella.txt"
+    }
+  ]
+}
